@@ -1,0 +1,14 @@
+{
+  "name": "anime_dl_linker",
+  "version": "1.0.0",
+  "description": "特定のサイト構造でのみ使用できるDLリンク生成ツールです。  \r 現在は開発段階で、一つのサイトにしか適応できません。\r https://ww1.gogoanime.io/",
+  "main": "anime_dl_linker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "39mamon",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio-httpcli": "^0.7.0"
+  }
+}
